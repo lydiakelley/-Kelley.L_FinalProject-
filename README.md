@@ -1,0 +1,1 @@
+My project looks at the correlation of chlorophyll concentrations and ocean temperature. To investigate this connection, I selected data from Lago Curuai, Para, Brazil and from Peace Athabasca Delta, Canada. 
